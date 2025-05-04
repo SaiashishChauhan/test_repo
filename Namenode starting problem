@@ -1,0 +1,3 @@
+namenode format command - hdfs namenode -format
+taskill PID search command - netstat -ano | findstr :9000 
+taskill command - taskkill /PID <PID> /F    # Replace whole <PID> with the actual PID
